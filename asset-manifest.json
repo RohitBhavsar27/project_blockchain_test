@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project_blockchain_test/static/css/main.10a068f2.css",
+    "main.js": "/project_blockchain_test/static/js/main.244eb543.js",
+    "static/js/453.258b012d.chunk.js": "/project_blockchain_test/static/js/453.258b012d.chunk.js",
+    "static/media/index.cjs": "/project_blockchain_test/static/media/index.1c5e66572d1ca185f0b4.cjs",
+    "index.html": "/project_blockchain_test/index.html",
+    "main.10a068f2.css.map": "/project_blockchain_test/static/css/main.10a068f2.css.map",
+    "main.244eb543.js.map": "/project_blockchain_test/static/js/main.244eb543.js.map",
+    "453.258b012d.chunk.js.map": "/project_blockchain_test/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a068f2.css",
+    "static/js/main.244eb543.js"
+  ]
+}
